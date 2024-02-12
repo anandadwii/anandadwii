@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and PHP
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=anandadwii&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
